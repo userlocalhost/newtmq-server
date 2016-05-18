@@ -1,4 +1,5 @@
 # NewtMQ
+[![Coverage Status](https://coveralls.io/repos/github/userlocalhost2000/newtmq-server/badge.svg?branch=master)](https://coveralls.io/github/userlocalhost2000/newtmq-server?branch=master)
 [![Build Status](https://travis-ci.org/newtmq/newtmq-server.svg?branch=master)](https://travis-ci.org/newtmq/newtmq-server)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
